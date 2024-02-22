@@ -1,5 +1,4 @@
 import bcrypt from "bcrypt";
-import client from "../client.js";
 
 export default {
   Mutation: {
